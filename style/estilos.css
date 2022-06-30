@@ -88,7 +88,7 @@ footer a {
   transition-duration: 0.5s;
   font-weight: 600;
 }
-footer ahover {
+footer a:hover {
   color: orange;
 }
 

@@ -16,7 +16,8 @@ footer {
     transition-property: color;
     transition-duration: 0.5s;
     font-weight: 600;
-    &hover {
+
+    &:hover {
       color: orange;
     }
   }
